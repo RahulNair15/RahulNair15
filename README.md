@@ -4,7 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulnair15&label=Profile%20views&color=0e75b6&style=flat" alt="rahulnair15" /> </p>
 
 - 📫 How to reach me **rahuulsatheesannair@gmail.com**
-
+- 🌱 I’m currently learning Machine Learning, Deep Learning, ReactJS, MongoDB, Blockchain
+- 💬 Ask me about ML, DL, Blockchain
+- ⚡ Fun fact Coding is Fun!!
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rahulnair1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulnair1010" height="30" width="40" /></a>
